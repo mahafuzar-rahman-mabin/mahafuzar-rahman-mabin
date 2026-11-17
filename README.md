@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="./github-cover.png" width="100%" alt="Mahafuzar Rahman Mabin GitHub Cover" />
+</p>
+
+<div align="center">
+
 # Hi 👋, I'm Mahafuzar Rahman Mabin
 
 ### Frontend Developer | React.js Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Learning+and+Building+Every+Day)
 
----
+## </div>
 
 ## 👨‍💻 About Me
 
