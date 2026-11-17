@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Learning+and+Building+Every+Day)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahafuzar08&label=Profile%20Views&color=00D9A6&style=flat)
-
 ---
 
 ## 👨‍💻 About Me
@@ -58,6 +56,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai" />
 </p>
 
-## 🐍 Contribution Snake
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+---
+
+### GitHub Contributions:
 
 ![Snake Animation](https://raw.githubusercontent.com/mahafuzar-rahman-mabin/mahafuzar-rahman-mabin/output/github-snake.svg)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahafuzar08&label=Profile%20Views&color=00D9A6&style=flat)
