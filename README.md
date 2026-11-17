@@ -1,3 +1,25 @@
+# Hi 👋, I'm Mahafuzar Rahman Mabin
+
+### Frontend Developer | React.js Enthusiast
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Learning+and+Building+Every+Day)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahafuzar08&label=Profile%20Views&color=00D9A6&style=flat)
+
+---
+
+## 👨‍💻 About Me
+
+- 👋 Hi, I'm **Mahafuzar Rahman Mabin**.
+- 💻 I'm a passionate **Frontend Developer**.
+- ⚛️ I enjoy building modern and responsive web applications using React.
+- 🌱 Currently learning **TypeScript, Node.js, and PostgreSQL**.
+- 🎯 My goal is to become a professional Full-Stack Developer.
+- 🚀 I love learning new technologies and solving programming problems.
+- 🤝 I'm interested in collaborating on interesting projects.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
