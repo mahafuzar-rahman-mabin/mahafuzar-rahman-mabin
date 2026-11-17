@@ -20,6 +20,12 @@
 
 ---
 
+### 🤝 Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahafuzar-rahman-mabin/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/mahafuzar08)
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
