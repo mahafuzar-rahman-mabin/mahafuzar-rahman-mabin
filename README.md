@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahafuzar Rahman Mabin
 
-\<h3 align="center">Frontend Developer | React.js Enthusiast\</h3>
+### Frontend Developer | React.js Enthusiast
 
 \<p align="center"> \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Learning+and+Building+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Learning+and+Building+Every+Day)" alt="Typing SVG" /> \</p>
 
@@ -22,25 +22,21 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,c](https://skillicons.dev/icons?i=html,css,js,ts,c)" alt="Languages" /> \</p>
+\
 
-### Frontend Development
+**Frontend Development**
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=react,vite](https://skillicons.dev/icons?i=react,vite)" alt="Frontend Technologies" /> \</p>
+\
 
-### Backend & Database
+**Backend & Database**
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,postgres](https://skillicons.dev/icons?i=nodejs,express,postgres)" alt="Backend Technologies" />
-\</p>
+\
 
-### Tools & Design
+**Tools & Design**
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai)" alt="Tools" />
-\</p>
+\
 
 ---
 
@@ -59,14 +55,7 @@
 
 ## 🚀 Featured Projects
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/mahafuzar08](https://github.com/mahafuzar08)">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117)" alt="Project 1" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/mahafuzar08](https://github.com/mahafuzar08)">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117)" alt="Project 2" />
-&#x20; \</a>
-\</p>
+\<p align="center"> \<a href="[https://github.com/mahafuzar08](https://github.com/mahafuzar08)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117)" alt="Project 1" /> \</a> \<a href="[https://github.com/mahafuzar08](https://github.com/mahafuzar08)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/pin/?username=mahafuzar08&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117)" alt="Project 2" /> \</a> \</p>
 
 ---
 
@@ -81,15 +70,6 @@
 ---
 
 ## 🤝 Connect With Me
-
-\<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/mahafuzar-rahman-mabin/](https://www.linkedin.com/in/mahafuzar-rahman-mabin/)" target="\_blank">
-&#x20; \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" height="40" alt="LinkedIn" />
-&#x20; \</a>
-&#x20; \<a href="[https://discord.com/users/mahafuzar08](https://discord.com/users/mahafuzar08)" target="\_blank">
-&#x20; \<img src="[https://skillicons.dev/icons?i=discord](https://skillicons.dev/icons?i=discord)" width="40" height="40" alt="Discord" />
-&#x20; \</a>
-\</p>
 
 ---
 
